@@ -2,6 +2,15 @@
 Updated 11/19/20 A curated list of Python 3 resources, books, websites, tutorials, code challenges. If you have any suggestions for 
 additions to the list please open an issue.
 
+### Resources I Used this week
+
+* Kaggle, revisited last week to check on how to write things
+
+* Strive slides, quite packaged
+
+* I wanna try the checkio coding challenges
+
+
 ### Books
 
 * [_Learn Python 3 the Hard Way_](https://learnpythonthehardway.org/) A good starting place if you are 
